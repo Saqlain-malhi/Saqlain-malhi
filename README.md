@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Problem solving**
 
-- 📫 How to reach me **ataulrehmangee994@gmail.com**
+- 📫 How to reach me **saqlainmalhi0414@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
