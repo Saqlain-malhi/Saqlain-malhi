@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+AtaurRehman!;Great+to+Have+You+Here!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+Saqlain Malhi!;Great+to+Have+You+Here!&center=true&size=25">
   </a>
 </h1>
 
